@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  Script Metode Terbaru, Cari Semua Keyword
-// @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%204.js
-// @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%204.js
+// @updateURL	 https://raw.githubusercontent.com/coltars/Jovi/refs/heads/main/Jovi%203/jovi4.js
+// @downloadURL	 https://raw.githubusercontent.com/coltars/Jovi/refs/heads/main/Jovi%203/jovi4.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
