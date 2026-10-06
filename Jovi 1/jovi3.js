@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  Script Metode Terbaru, Cari Semua Keyword
-// @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi3.js
-// @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi3.js
+// @updateURL	  https://raw.githubusercontent.com/coltars/Jovi/refs/heads/main/Jovi%201/jovi3.js
+// @downloadURL  https://raw.githubusercontent.com/coltars/Jovi/refs/heads/main/Jovi%201/jovi3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -58,7 +58,7 @@ var Comment18 = 'tab13';
     let adminList = [];
     var SCRIPT_NAME = Comment18
     let isAdminListReady = false; // Flag penanda kesiapan data
-    var refresh = 500; // Percepat durasi animasi tarik layar agar selesai dalam 200ms
+    var refresh = 400; // Percepat durasi animasi tarik layar agar selesai dalam 200ms
     var refreshNonUser = 500;
     let commentDone = false; // Flag untuk menghentikan aksi jika bot sudah selesai bertugas
     let lastRefreshFeedState = "20"; // Menyimpan ID postingan terakhir untuk mendeteksi perubahan feed
