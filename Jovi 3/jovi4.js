@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/coltars/Jovi/refs/heads/main/Jovi%203/jovi4.js
 // @downloadURL	 https://raw.githubusercontent.com/coltars/Jovi/refs/heads/main/Jovi%203/jovi4.js
